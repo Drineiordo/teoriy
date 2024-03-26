@@ -116,7 +116,7 @@ img {
 
 #logo {
 	float: left;
-	padding: 100px 1000px 0 0;
+	padding: 100px 100px 0 0;
 }
 
 #logo h1 {
@@ -183,7 +183,7 @@ img {
 /* Menu */
 
 #menu {
-	width: 700px;
+	width: 200px;
 	height: 40px;
 	margin: 0 auto;
 }

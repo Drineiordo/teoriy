@@ -92,7 +92,7 @@ img {
 }
 
 .boxed .title {
-	height: 29px;
+	height: 60px;
 	padding: 11px 0 0 27px;
 	background: url(images/img08.gif) no-repeat 10px 50%;
 	font-size: 1.2em;
@@ -116,7 +116,7 @@ img {
 
 #logo {
 	float: left;
-	padding: 100px 100px 0 0;
+	padding: 55px 100px 0 0;
 }
 
 #logo h1 {
